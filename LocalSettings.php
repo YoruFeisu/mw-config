@@ -665,6 +665,7 @@ $wgConf->settings = array(
 		'sizzlecookiewiki' => true,
 		'urho3dwiki' => true,
 		'valentinaprojectwiki' => true,
+		'stellachronicawiki' => true,
 
 	),
 	// Combo of Tabs + Tabber
@@ -1039,6 +1040,7 @@ $wgConf->settings = array(
 			'extloadwiki',
 			'loginwiki',
 			'testwiki',
+			'stellachronicawiki',
 		),
 	),
 	
@@ -1814,6 +1816,7 @@ $wgConf->settings = array(
 		'valentinaprojectwiki' => 'https://wiki.valentinaproject.org',
 		'wikiparkinsonwiki' => 'https://wikiparkinson.org',
 		'zepaltusprojectwiki' => 'https://wiki.zepaltusproject.com',
+		'stellachronicawiki' => 'https://wiki.stellachronica.org'
 	),
 	'wgShowHostnames' => array(
 		'default' => true,
