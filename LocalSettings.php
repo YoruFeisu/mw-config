@@ -1858,7 +1858,7 @@ $wgConf->settings = array(
 		'default' => 'vector',
 		'cybercrimewiki' => 'modern',
 		'permanentfuturelabwiki' => 'foreground',
-		'stellachronicawiki' => 'modern',
+		'stellachronicawiki' => 'monobook',
 	),
 	'wgFavicon' => array(
 		'default' => '/favicon.ico',
